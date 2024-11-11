@@ -1,0 +1,16 @@
+
+
+Create a visualizer for Algorithms and Data Structures
+
+Primarily for review and continued experience working with algorithms
+
+1. Choose a list of starting algorithms
+2. How am I going to implement them
+3. How am I going to visualize them
+
+Data structures I want to include:
+    - linked list
+    - Doubly linked list
+    - Heap
+    - Binary tree
+    - Red Black tree
